@@ -1,0 +1,19 @@
+{
+  "name": "my-express-app",
+  "version": "1.0.0",
+  "description": "Example Node.js project with Express and MySQL",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "setup": "node setup.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.0"
+  }
+}
